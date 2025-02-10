@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Nausheen Ali</h1>
-<h3 align="center">A passionate and enthusiastic programmer from India</h3>
+<h1 align="center">Hi, I'm Nausheen!👋</h1>
+<h5 align="center">Pursuing B.Tech in Computer Science from Manipal Institue of Technology | A passionate and enthusiastic programmer | Have a deep interest in Cyber Security</h5>
 
 
 # 💻 Tech Stack:
